@@ -10,7 +10,7 @@ The objective of the last practical session is to perform 3D reconstruction usin
 * A point cloud (in the 3D world reference frame) is a way to represent the external surface of an object.
 
 ## Submission
-Your work is now to complete the following tasks:
+Our work is now to complete the following tasks:
 1. Calibrate the two RGB cameras using the checkerboard calibration technique.
 * Detect the corner points of the checkerboard
 * Calibrate each camera separately (to get intrinsic parameters)
